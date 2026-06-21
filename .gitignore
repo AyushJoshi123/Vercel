@@ -1,0 +1,21 @@
+# Environment files
+vercel_deployment_service/src/.env
+vercel_request_service/src/.env
+vercel_upload_service/src/.env
+
+# Node modules
+vercel_deployment_service/node_modules/
+vercel_request_service/node_modules/
+vercel_upload_service/node_modules/
+
+# Build outputs
+vercel_deployment_service/dist/
+vercel_request_service/dist/
+vercel_upload_service/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
